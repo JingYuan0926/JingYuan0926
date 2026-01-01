@@ -20,7 +20,7 @@
 | 14 | Consensus Hong Kong Hackathon 2025 | Aptos (3rd) 🥉 | [Project Repo](https://github.com/derek2403/grand-theft-aptos) |
 | 15 | ETHGlobal Agentic Ethereum 2025 | Flow (2nd) 🥈 | [Project Repo](https://github.com/derek2403/4AI-1Human) |
 | 16 | UiTM Mini Hackathon 2025 | 2nd Place 🥈 | [Project Repo](https://github.com/JingYuan0926/solananft) |
-| 17 | PayHack 2024 | 3rd Place 🥉 | [Project Repo](https://github.com/derek2403/payhack) |
+| 17 | PayHack 2024 | 3rd Place 🥉 | [Project Repo](https://github.com/JingYuan0926/payhack) |
 | 18 | ETHGlobal Bangkok Hackathon 2024 | CDP (Pool) 🏅, Blockscout (Pool) 🏅, Coinbase (Pool) 🏅 | [Project Repo](https://github.com/derek2403/eThAi) |
 | 19 | ETHKL Hackathon 2024 | Finalist 🎯, ICP (2nd) 🥈, WorldCoin (Pool) 🏅, Scroll (Pool) 🏅, Ora (Pool) 🏅 | [Project Repo](https://github.com/derek2403/AI-Food-Rating-App) |
 | 20 | ETHGlobal Singapore Hackathon 2024 | Near (Winner) 🏅, WorldCoin (Pool) 🏅 | [Project Repo](https://github.com/derek2403/NEARer) |
