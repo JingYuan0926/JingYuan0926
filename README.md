@@ -12,7 +12,7 @@
 | 6 | ETHTokyo 2025 | AI Track Champion 🥇, Finalist 🏆 | [Project Repo](https://github.com/derek2403/ethtokyo) |
 | 7 | DevQuest 2025 | Champion 🥇, Top 10 Finalist 🎯 | No Repo |
 | 8 | IOTA Malaysia Hackathon 2025 | 6th - 10th Place 🎯 | [Project Repo](https://github.com/derek2403/iota-hackathon) |
-| 9 | ImagineHack 2025 | Champion 🥇 | [Project Repo](https://github.com/derek2403/tt) |
+| 9 | ImagineHack 2025 | Champion 🥇 | [Project Repo](https://github.com/JingYuan0926) |
 | 10 | EasyA X Ripple Singapore Hackathon 2025 | 2nd Place 🥈 | [Project Repo](https://github.com/derek2403/EasyA-Wiser) |
 | 11 | BUIDL Asia Seoul Hackathon 2025 | Champion 🥇, Gensyn (1st) 🥇, Nethermind (2nd) 🥈, Near (Winner) 🏅 | [Project Repo](https://github.com/derek2403/CureMeBaby) |
 | 12 | ETHGlobal Taipei Hackathon 2025 | 1inch (2nd) 🥈, Celo (Pool) 🏅 | [Project Repo](https://github.com/derek2403/memest-cutest-platform) |
