@@ -1,37 +1,37 @@
-## Hi there, I am Jing Yuan👋
+## Hi there, I am Jing Yuan 👋
 
-## 🏆 Hackathon Achievements
+### 🏆 Hackathon Achievements
 
-| # | 📅 Hackathon & Year | 🏆 Awards Won | 🔗 Project Repository |
-|---|---|---|---|
-| 1 | Cursor x Anthropic Hackathon Malaysia 2025 | Top 15 Finalist 🎯 | [Project Repo](https://github.com/JingYuan0926/eternai) |
-| 2 | Forte Hacks by Flow 2025 | Existing Codebase (3rd) 🥉 | [Project Repo](https://github.com/derek2403/dhal-way) |
-| 3 | ETHOnline 2025 | BlockScout (1st) 🥇 | [Project Repo](https://github.com/derek2403/pet-pet) |
-| 4 | Token2049 Hackathon Singapore 2025 | Celo (1st) 🥇, Top 5 Finalist 🏆 | [Project Repo](https://github.com/derek2403/token2049) |
-| 5 | ETHGlobal New Delhi Hackathon 2025 | Flow (1st) 🥇, Hedera (Best Overall Project) 🥇 | [Project Repo](https://github.com/derek2403/ethindia) |
-| 6 | ETHTokyo 2025 | AI Track Champion 🥇, Finalist 🏆 | [Project Repo](https://github.com/derek2403/ethtokyo) |
-| 7 | DevQuest 2025 | Champion 🥇, Top 10 Finalist 🎯 | No Repo |
-| 8 | IOTA Malaysia Hackathon 2025 | 6th - 10th Place 🎯 | [Project Repo](https://github.com/derek2403/iota-hackathon) |
-| 9 | ImagineHack 2025 | Champion 🥇 | [Project Repo](https://github.com/JingYuan0926) |
-| 10 | EasyA X Ripple Singapore Hackathon 2025 | 2nd Place 🥈 | [Project Repo](https://github.com/derek2403/EasyA-Wiser) |
-| 11 | BUIDL Asia Seoul Hackathon 2025 | Champion 🥇, Gensyn (1st) 🥇, Nethermind (2nd) 🥈, Near (Winner) 🏅 | [Project Repo](https://github.com/derek2403/CureMeBaby) |
-| 12 | ETHGlobal Taipei Hackathon 2025 | 1inch (2nd) 🥈, Celo (Pool) 🏅 | [Project Repo](https://github.com/derek2403/memest-cutest-platform) |
-| 13 | ETHGlobal Trifecta 2025 | TEE (2nd) 🥈, Finalist 🏆 | [Project Repo](https://github.com/derek2403/TeeTee) |
-| 14 | Consensus Hong Kong Hackathon 2025 | Aptos (3rd) 🥉 | [Project Repo](https://github.com/derek2403/grand-theft-aptos) |
-| 15 | ETHGlobal Agentic Ethereum 2025 | Flow (2nd) 🥈 | [Project Repo](https://github.com/derek2403/4AI-1Human) |
-| 16 | UiTM Mini Hackathon 2025 | 2nd Place 🥈 | [Project Repo](https://github.com/JingYuan0926/solananft) |
-| 17 | PayHack 2024 | 3rd Place 🥉 | [Project Repo](https://github.com/JingYuan0926/payhack) |
-| 18 | ETHGlobal Bangkok Hackathon 2024 | CDP (Pool) 🏅, Blockscout (Pool) 🏅, Coinbase (Pool) 🏅 | [Project Repo](https://github.com/derek2403/eThAi) |
-| 19 | ETHKL Hackathon 2024 | Finalist 🎯, ICP (2nd) 🥈, WorldCoin (Pool) 🏅, Scroll (Pool) 🏅, Ora (Pool) 🏅 | [Project Repo](https://github.com/derek2403/AI-Food-Rating-App) |
-| 20 | ETHGlobal Singapore Hackathon 2024 | Near (Winner) 🏅, WorldCoin (Pool) 🏅 | [Project Repo](https://github.com/derek2403/NEARer) |
-| 21 | UM DSDR 2024 | Consolation 🎖️ | No Repo |
-| 22 | Monash Hackfest 2024 | 9th Place 🎯 | [Project Repo](https://github.com/JingYuan0926/Hackfest) |
-| 23 | APUBCC Buildstation 2024 | 2nd Place 🥈 | [Project Repo](https://github.com/derek2403/Solana-AI-Blink-Platform) |
-| 24 | APUBCC DevMatch 2024 | Aptos (Champion) 🥇 | [Project Repo](https://github.com/derek2403/Devmatch) |
-| 25 | Bridg3 Hackathon 2024 | Sui (3rd) 🥉 | [Project Repo](https://github.com/derek2403/Learn2) |
-| 26 | Hackinsan 2024 | Champion 🥇 | [Project Repo](https://github.com/derek2403/Motion-Capture-Web-App) |
-| 27 | Hilti IT Competition 2024 | Semi Finalist 🎯 | [Project Repo](https://github.com/JingYuan0926/Hilti-Profolio) |
-| 28 | Viction Horizon Startup Hackathon 2024 | Finalist 🎯 | [Project Repo](https://github.com/JingYuan0926/TicketWave-V2) |
-| 29 | Chililado | Champion 🥇 | [No Repo](https://github.com/JingYuan0926/ChiliLado) |
-| 30 | ETHKL Hackathon 2023 | Aleo (3rd) 🥉 | [Project Repo](https://github.com/JingYuan0926/leo) |
-| 31 | APUBCC Sparkathon | 6th - 9th 🎯 | [Project Repo](https://github.com/JingYuan0926/Sparkathon) |
+| # | 📅 Hackathon & Year | 📍 Location / Online | 💡 Project (one-liner) | 🏆 Awards Won | 🔗 Submission | 🔗 Project Repository |
+|---:|---|---|---|---|---|---|
+| 1 | Cursor x Anthropic Hackathon Malaysia 2025 | Monash University, Kuala Lumpur, Malaysia | AI avatars of loved ones to preserve memories and chat with their digital presence. | Top 15 Finalist 🎯 | [Devpost](https://devpost.com/software/eternai?_gl=1*1q4bzyh*_gcl_au*NTAwMjc0MDIuMTc2MzYxMjg2OQ..*_ga*MTkzMjMzOTA2MC4xNzYzNjEyODcw*_ga_0YHJK3Y10M*czE3NjcyOTY2OTkkbzE5JGcxJHQxNzY3Mjk2NzE0JGo0NSRsMCRoMA..) | [Repo](https://github.com/JingYuan0926/eternai) |
+| 2 | Forte Hacks by Flow 2025 | Online | Pay with any token on any chain; merchants receive their preferred token/chain in one signature. | Existing Codebase (3rd) 🥉 | [Hackquest](https://www.hackquest.io/projects/Forte-Hacks-by-Flow-Build-with-Disney-Dune-and-Dapper-Dhal-Way) | [Repo](https://github.com/derek2403/dhal-way) |
+| 3 | ETHOnline 2025 | Online | TEE + IoT + CV turns real pet care into privacy-safe, verifiable on-chain events. | BlockScout (1st) 🥇 | [ETHGlobal](https://ethglobal.com/showcase/petpet-8zfnw) | [Repo](https://github.com/derek2403/pet-pet) |
+| 4 | Token2049 Hackathon Singapore 2025 | Marina Bay Sands, Singapore | Celo MiniPay MiniApp: AI transaction assistant with a conversational UI. | Celo (1st) 🥇, Top 5 Finalist 🏆 | [Event Page](https://www.token2049.com/singapore/2049-origins) | [Repo](https://github.com/derek2403/token2049) |
+| 5 | ETHGlobal New Delhi Hackathon 2025 | Yashobhoomi (IICC), New Delhi, IN | Cross-chain payments via one EIP-712 signature; relayer escrows and settles to merchant’s target chain/asset. | Flow (1st) 🥇, Hedera (Best Overall Project) 🥇 | [ETHGlobal](https://ethglobal.com/showcase/dhal-way-z7hc8) | [Repo](https://github.com/derek2403/ethindia) |
+| 6 | ETHTokyo 2025 | Dragon Gate Shibuya, Tokyo, JP | Anime-style AI therapist in a TEE with adaptive care and progress insights. | AI Track Champion 🥇, Finalist 🏆 | [Taikai](https://taikai.network/ethtokyo/hackathons/hackathon-2025/projects/cmfkcqt5104d5gq91wggvle9k/idea) | [Repo](https://github.com/derek2403/ethtokyo) |
+| 7 | DevQuest 2025 | Online | Speed-run debugging + feature additions on an existing codebase under time/accuracy pressure. | Champion 🥇, Top 10 Finalist 🎯 | — | — |
+| 8 | IOTA Malaysia Hackathon 2025 | Xsolla Curine Academy, Kuala Lumpur, Malaysia | Face-recognition attendance + on-chain verifiable credentials to stop spoofing and central records. | 6th - 10th Place 🎯 | — | [Repo](https://github.com/derek2403/iota-hackathon) |
+| 9 | ImagineHack 2025 | Taylor's University, Selangor, Malaysia | Malaysia news PWA with crowdsourced comments, sentiment + bias analysis, and context-preserving summaries. | Champion 🥇 | — | [Repo](https://github.com/derek2403/tt) |
+| 10 | EasyA X Ripple Singapore Hackathon 2025 | Novotel Singapore on Kitchener, SG | XRPL-based non-custodial spend: DID/KYC + pathfinding to issue a debit card via Marqeta sandbox. | 2nd Place 🥈 | [Post](https://x.com/easya_app/status/1937470400423759881) | [Repo](https://github.com/derek2403/EasyA-Wiser) |
+| 11 | BUIDL Asia Seoul Hackathon 2025 | Sky31 Convention, Seoul, KR | TEE mental-health assistant with Gensyn swarm + RAG personalization, delivered via NEAR subscription. | Champion 🥇, Gensyn (1st) 🥇, Nethermind (2nd) 🥈, Near (Winner) 🏅 | [Devfolio](https://devfolio.co/projects/cure-me-baby-20c7) | [Repo](https://github.com/derek2403/CureMeBaby) |
+| 12 | ETHGlobal Taipei Hackathon 2025 | Songshan Cultural & Creative Park, Taipei, TW | Gamified cross-app workflow hub (Web2+Web3) using MCP in a TEE. | 1inch (2nd) 🥈, Celo (Pool) 🏅 | [ETHGlobal](https://ethglobal.com/showcase/memestcutestplatform-pbgyj) | [Repo](https://github.com/derek2403/memest-cutest-platform) |
+| 13 | ETHGlobal Trifecta 2025 | Online | LLM sharding across verifiable TEEs for decentralized inference. | TEE (2nd) 🥈, Finalist 🏆 | [ETHGlobal](https://ethglobal.com/showcase/teetee-dv4p9) | [Repo](https://github.com/derek2403/TeeTee) |
+| 14 | Consensus Hong Kong Hackathon 2025 | HKCEC, Hong Kong | Open-world game with AI NPCs and on-chain interactions on Aptos. | Aptos (3rd) 🥉 | [Post](https://x.com/easya_app/status/1892801668401733810) | [Repo](https://github.com/derek2403/grand-theft-aptos) |
+| 15 | ETHGlobal Agentic Ethereum 2025 | Online | Describe custom on-chain logic in English; execute transactions via MetaMask. | Flow (2nd) 🥈 | [ETHGlobal](https://ethglobal.com/showcase/4ai-1human-ifsyf) | [Repo](https://github.com/derek2403/4AI-1Human) |
+| 16 | UiTM Mini Hackathon 2025 | Online | Text-to-image NFT generator that mints directly on Solana. | 2nd Place 🥈 | [Listing](https://earn.superteam.fun/listing/superteam-my-lessgreater-uitm-mini-hackathon) | [Repo](https://github.com/JingYuan0926/solananft) |
+| 17 | PayHack 2024 | Asia School of Business (ASB), Kuala Lumpur, Malaysia | Gamified habit builder for financial goals using open finance. | 3rd Place 🥉 | [Post](https://www.linkedin.com/posts/jomhackmy_here-are-the-winners-of-payhack-2024-open-activity-7269202645368627200-G7P8) | [Repo](https://github.com/derek2403/payhack) |
+| 18 | ETHGlobal Bangkok Hackathon 2024 | QSNCC, Bangkok, TH | Collaborative platform where anyone can co-build and improve AI models together. | CDP (Pool) 🏅, Blockscout (Pool) 🏅, Coinbase (Pool) 🏅 | [ETHGlobal](https://ethglobal.com/showcase/ethai-5h2md) | [Repo](https://github.com/derek2403/eThAi) |
+| 19 | ETHKL Hackathon 2024 | KLCC, Kuala Lumpur, Malaysia | Blockchain + AI food ratings with dynamic voting power. | Finalist 🎯, ICP (2nd) 🥈, WorldCoin (Pool) 🏅, Scroll (Pool) 🏅, Ora (Pool) 🏅 | [Devfolio](https://devfolio.co/projects/justeth-4eeb) | [Repo](https://github.com/derek2403/AI-Food-Rating-App) |
+| 20 | ETHGlobal Singapore Hackathon 2024 | Marina Bay Sands, Singapore | AI-assisted NEAR Chain Signatures: manage wallets, send, stake, and move assets across chains. | Near (Winner) 🏅, WorldCoin (Pool) 🏅 | [ETHGlobal](https://ethglobal.com/showcase/nearer-bwbft) | [Repo](https://github.com/derek2403/NEARer) |
+| 21 | UM DSDR 2024 | Online | Timed Python datathon solving riddles and analytics challenges. | Consolation 🎖️ | — | — |
+| 22 | Monash Hackfest 2024 | Monash University, Selangor, Malaysia | Unified multi-chain DeFi console: manage wallets/networks + run NL commands with AI route optimization. | 9th Place 🎯 | [Devfolio](https://devfolio.co/projects/-4c2d) | [Repo](https://github.com/JingYuan0926/Hackfest) |
+| 23 | APUBCC Buildstation 2024 | Asia Pacific University (APU), Selangor, Malaysia | NLP → Solana Blink generator for one-click on-chain actions. | 2nd Place 🥈 | [Listing](https://earn.superteam.fun/listing/apubcc-buildstation-2024/) | [Repo](https://github.com/derek2403/Solana-AI-Blink-Platform) |
+| 24 | APUBCC DevMatch 2024 | Asia Pacific University (APU), Selangor, Malaysia | Learn-to-earn finance game on Aptos that rewards crypto for mastering concepts. | Aptos (Champion) 🥇 | [Devfolio](https://devfolio.co/projects/learn-6c6b) | [Repo](https://github.com/derek2403/Devmatch) |
+| 25 | Bridg3 Hackathon 2024 | Xsolla Curine Academy, Kuala Lumpur, Malaysia | Learn-to-earn finance game on Sui using native features (randomness, zkLogin, gas station). | Sui (3rd) 🥉 | [Page](https://growthcharger.com/bridg3hackathon) | [Repo](https://github.com/derek2403/Learn2) |
+| 26 | Hackinsan 2024 | Kolej PERMATA Insan, Negeri Sembilan, MY | CV action mirror: map human motion to 3D models in real time. | Champion 🥇 | [Post](https://www.instagram.com/hack.insan/p/C9U54bmyk-E/?hl=en) | [Repo](https://github.com/derek2403/Motion-Capture-Web-App) |
+| 27 | Hilti IT Competition 2024 | — | — | Semi Finalist 🎯 | — | [Repo](https://github.com/JingYuan0926/Hilti-Profolio) |
+| 28 | Viction Horizon Startup Hackathon 2024 | Sunway University, Selangor, Malaysia | NFT ticketing platform to prevent scams and scalpers. | Finalist 🎯 | [Devfolio](https://devfolio.co/projects/ticketwave-f4c7) | [Repo](https://github.com/JingYuan0926/TicketWave-V2) |
+| 29 | Chililado | — | — | Champion 🥇 | — | [Repo](https://github.com/JingYuan0926/ChiliLado) |
+| 30 | ETHKL Hackathon 2023 | — | — | Aleo (3rd) 🥉 | — | [Repo](https://github.com/JingYuan0926/leo) |
+| 31 | APUBCC Sparkathon | Asia Pacific University (APU), Selangor, Malaysia | Gaming e-commerce marketplace with BNPL for in-game items and premium subscriptions. | 6th - 9th 🎯 | [Devfolio](https://devfolio.co/projects/sol-good-a546) | [Repo](https://github.com/JingYuan0926/Sparkathon) |
