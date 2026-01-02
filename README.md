@@ -30,8 +30,8 @@
 | 24 | APUBCC DevMatch 2024 | Asia Pacific University (APU), Selangor, Malaysia | Learn-to-earn finance game on Aptos that rewards crypto for mastering concepts. | Aptos (Champion) 🥇 | [Devfolio](https://devfolio.co/projects/learn-6c6b) | [Repo](https://github.com/derek2403/Devmatch) |
 | 25 | Bridg3 Hackathon 2024 | Xsolla Curine Academy, Kuala Lumpur, Malaysia | Learn-to-earn finance game on Sui using native features (randomness, zkLogin, gas station). | Sui (3rd) 🥉 | [Page](https://growthcharger.com/bridg3hackathon) | [Repo](https://github.com/derek2403/Learn2) |
 | 26 | Hackinsan 2024 | Kolej PERMATA Insan, Negeri Sembilan, MY | CV action mirror: map human motion to 3D models in real time. | Champion 🥇 | [Post](https://www.instagram.com/hack.insan/p/C9U54bmyk-E/?hl=en) | [Repo](https://github.com/derek2403/Motion-Capture-Web-App) |
-| 27 | Hilti IT Competition 2024 | — | — | Semi Finalist 🎯 | — | [Repo](https://github.com/JingYuan0926/Hilti-Profolio) |
-| 28 | Viction Horizon Startup Hackathon 2024 | Sunway University, Selangor, Malaysia | NFT ticketing platform to prevent scams and scalpers. | Finalist 🎯 | [Devfolio](https://devfolio.co/projects/ticketwave-f4c7) | [Repo](https://github.com/JingYuan0926/TicketWave-V2) |
-| 29 | Chililado | — | — | Champion 🥇 | — | [Repo](https://github.com/JingYuan0926/ChiliLado) |
-| 30 | ETHKL Hackathon 2023 | — | — | Aleo (3rd) 🥉 | — | [Repo](https://github.com/JingYuan0926/leo) |
+| 27 | Hilti IT Competition 2024 | Online | — | Semi Finalist 🎯 | — | [Repo](https://github.com/JingYuan0926/Hilti-Profolio) |
+| 28 | Viction Horizon Startup Hackathon 2024 | Online | NFT ticketing platform on Viction to prevent scams and scalpers. | Finalist 🎯 | [Devfolio](https://devfolio.co/projects/ticketwave-f4c7) | [Repo](https://github.com/JingYuan0926/TicketWave-V2) |
+| 29 | Chililado | Taylor's Univeristy, Selangor, Malaysia | — | Champion 🥇 | — | [Repo](https://github.com/JingYuan0926/ChiliLado) |
+| 30 | ETHKL Hackathon 2023 | Sunway University, Selangor, Malaysia | NFT ticketing platform on Aleo to prevent scams and scalpers where user able to buy tickets using ZK Proof. | Aleo (3rd) 🥉 | — | [Repo](https://github.com/JingYuan0926/leo) |
 | 31 | APUBCC Sparkathon | Asia Pacific University (APU), Selangor, Malaysia | Gaming e-commerce marketplace with BNPL for in-game items and premium subscriptions. | 6th - 9th 🎯 | [Devfolio](https://devfolio.co/projects/sol-good-a546) | [Repo](https://github.com/JingYuan0926/Sparkathon) |
