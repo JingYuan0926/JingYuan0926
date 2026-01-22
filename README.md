@@ -2,7 +2,7 @@
 
 ### 🏆 Hackathon Achievements
 
-| # | 📅 Hackathon & Year | 📍 Location / Online | 💡 Project (one-liner) | 🏆 Awards Won | 🔗 Submission | 🔗 Project Repository |
+| # | Hackathon & Year | Location / Online | Project (one-liner) | Awards Won | Submission | Project Repository |
 |---:|---|---|---|---|---|---|
 | 1 | First Movers Vietnam Sprint 2026 | Ho Chi Min, Vietnam | Joint-outcome private AMM prediction market pooling liquidity across correlated Yes/No questions. | Winner of DeFi Core & Financial Primitives | [Project Link](https://www.deepsurge.xyz/projects/55e7cf5d-5f2d-4731-9578-be9972c1fa41) | [Repo](https://github.com/derek2403/six-seven) |
 | 2 | Cursor x Anthropic Hackathon Malaysia 2025 | Monash University, Kuala Lumpur, Malaysia | AI avatars of loved ones to preserve memories and chat with their digital presence. | Top 15 Finalist 🎯 | [Devpost](https://devpost.com/software/eternai?_gl=1*1q4bzyh*_gcl_au*NTAwMjc0MDIuMTc2MzYxMjg2OQ..*_ga*MTkzMjMzOTA2MC4xNzYzNjEyODcw*_ga_0YHJK3Y10M*czE3NjcyOTY2OTkkbzE5JGcxJHQxNzY3Mjk2NzE0JGo0NSRsMCRoMA..) | [Repo](https://github.com/JingYuan0926/eternai) |
